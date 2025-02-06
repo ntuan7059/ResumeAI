@@ -9,9 +9,9 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const nunito = Nunito({ subsets: ["latin"], variable: "--font-nunito" });
 
 export const metadata: Metadata = {
-  title: "ResumeAI - Professional AI Resume Builder",
+  title: "ResumeAI - Tạo hồ sơ chuyên nghiệp",
   description:
-    "Generate a polished, professional resume in just a few clicks with our AI-powered resume builder.",
+    "Tạo hồ sơ chuyên nghiệp chỉ trong 1 phút với công nghệ trí tuệ nhân tạo",
   icons: {
     icon: "/icons/favicon.ico",
   },
